@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Iqboljon",
+      "email": "orifjonovgmail.com",
+      "phone": 998901234567,
+      "actions": "delete edit"
+    },
+    {
+      "id": "2",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": 17115544,
+      "actions": "delete edit"
+    },
+    {
+      "id": "3",
+      "name": "Jasur",
+      "email": "jasur.doe@example.com",
+      "phone": 1711556,
+      "actions": "delete edit"
+    },
+    {
+      "id": "0abd",
+      "name": "ddd",
+      "email": "ddd",
+      "phone": "ddd",
+      "action": "delit edit"
+    }
+  ]
+}
